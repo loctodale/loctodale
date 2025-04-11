@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loctodale)](https://github.com/loctodale/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loctodale&layout=donut-vertical)](https://github.com/loctodale/github-readme-stats)
 <!--
 **loctodale/loctodale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
